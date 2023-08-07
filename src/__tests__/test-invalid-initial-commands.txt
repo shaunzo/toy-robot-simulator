@@ -1,0 +1,4 @@
+MOVE;Cannot execute, first command needs to be a PLACE command eg. PLACE 0,1,EAST
+LEFT;Cannot execute, first command needs to be a PLACE command eg. PLACE 0,1,EAST
+RIGHT;Cannot execute, first command needs to be a PLACE command eg. PLACE 0,1,EAST
+MOVE;Cannot execute, first command needs to be a PLACE command eg. PLACE 0,1,EAST
