@@ -5,7 +5,7 @@ Node (I used version 18.13.0)
 
 ## Installing
 After cloning this repo with `git clone https://github.com/shaunzo/toy-robot-simulator.git`
-Navigate into the root directory with `cd ./toy-roboto-simulator`
+Navigate into the root directory with `cd ./toy-robot-simulator`
 Install dependencies `npm install`
 
 ## Running the app
